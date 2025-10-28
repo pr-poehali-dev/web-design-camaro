@@ -60,6 +60,18 @@ const Index = () => {
       url: 'https://cdn.poehali.dev/projects/850eaaf2-7cc9-42b4-8e88-654bd8300e1c/files/b139878f-16be-4a3c-87a4-39ccad99be75.jpg',
       title: 'Двигатель',
     },
+    {
+      url: 'https://cdn.poehali.dev/projects/850eaaf2-7cc9-42b4-8e88-654bd8300e1c/files/05b955b1-df4a-4679-83e4-441e748d231c.jpg',
+      title: 'Задний ракурс',
+    },
+    {
+      url: 'https://cdn.poehali.dev/projects/850eaaf2-7cc9-42b4-8e88-654bd8300e1c/files/16095d87-c1cf-4214-8efa-b83f00bb0d81.jpg',
+      title: 'Салон',
+    },
+    {
+      url: 'https://cdn.poehali.dev/projects/850eaaf2-7cc9-42b4-8e88-654bd8300e1c/files/03ecadf1-e48b-4605-8280-1853f0822ec2.jpg',
+      title: 'Решётка радиатора',
+    },
   ];
 
   return (

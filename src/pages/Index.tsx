@@ -116,7 +116,7 @@ const Index = () => {
               <div className="relative overflow-hidden rounded-lg mb-12">
                 <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent z-10" />
                 <img
-                  src="https://cdn.poehali.dev/projects/850eaaf2-7cc9-42b4-8e88-654bd8300e1c/files/4a276447-407b-4c7b-b039-93950ef7b4e9.jpg"
+                  src="https://cdn.poehali.dev/projects/850eaaf2-7cc9-42b4-8e88-654bd8300e1c/files/f6f0d123-94c1-4075-ab05-5a8f23b33ad7.jpg"
                   alt="Chevrolet Camaro SS"
                   className="w-full h-[600px] object-cover"
                 />
